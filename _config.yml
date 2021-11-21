@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yimei Zhang"
 title_separator          : "-"
 name                     : &name "Yimei Zhang"
-description              : &description "personal description"
+description              : &description "M.A. student, Education and Society at McGill"
 url                      : https://yimeizhang.netlify.app/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yimeizhang1.github.io"
@@ -85,8 +85,8 @@ author:
   bio              : "M.A. Education and Society Student at McGill"
   location         : "Montreal / Chengdu"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : yi-mei.zhang@mail.mcgill.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xiaoqinghua233"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
