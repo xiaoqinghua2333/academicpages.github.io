@@ -9,7 +9,7 @@ main:
     url: /research/    
   - title: "Publication"
     url: /publications/
-  - title: "Guide"
+  - title: "person"
     url: /personality/
 
   # - title: "Publications"
@@ -31,4 +31,5 @@ main:
     url: /cv/
     
   #- title: "Guide"
-    url: /markdown/
+
+  #  url: /markdown/
