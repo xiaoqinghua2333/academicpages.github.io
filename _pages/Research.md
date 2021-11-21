@@ -11,7 +11,7 @@ redirect_from:
 
 ### Student Research @[Shanghai University](https://www.shu.edu.cn/)
 
-Shanghai, August to October 2019, advisor - Pro. Yimin Hao
+Shanghai, August to October 2019, advisor - Prof. Yimin Hao
 
 Topic - **“A Research on WeChat Official Account Users’ Information Sharing Behaviors, based on “Uses and Gratifications Theory”** 
 
@@ -21,7 +21,7 @@ Topic - **“A Research on WeChat Official Account Users’ Information Sharing 
 
 ### Student Research @[Shanghai University](https://www.shu.edu.cn/)
 
-Shanghai, April to October 2019, advisor - Pro. Yimin Hao
+Shanghai, April to October 2019, advisor - Prof. Yimin Hao
 
 Topic - **“Causes and Solutions Towards Extending Cyberbullying of New Media”** 
 
