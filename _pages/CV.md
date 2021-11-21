@@ -22,9 +22,17 @@ redirect_from:
 ### Tendencies
 
 * Live in Subtropical regions.
+
 * Warmth 
+
 * Fancy stuff 
+
 * Podcasts! 
+
 * Logic 
+
+* [My partner!! (NLP, Multimodal ML, AI)](https://zhangle.netlify.app)
+
+  
 
  
