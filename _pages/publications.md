@@ -29,7 +29,7 @@ author_profile: true
 
 [6] Yi Mei Zhang & Chun Wang, The First Domestic Optical 3D Inspection Equipment for Pipe, STDAILY.com, 05/07/2019 (In Chinese) 
 
-[7] Yi Mei Zhang & Chun Wang, Shanghai Nan-Hui Peach Promotion Conference, STDAILY.com, 17/07/2019 (In Chinese) 
+[7] Yi Mei Zhang & Chun Wang, [Shanghai Nan-Hui Peach Promotion Conference](http://www.stdaily.com/02/shanghai/2019-07/07/content_776127.shtml), STDAILY.com, 17/07/2019 (In Chinese) 
 
 [8] Yi Mei Zhang & Chun Wang, Shanghai Pudong Women's Entrepreneurship Competition, STDAILY.com, 19/07/2019 (In Chinese) 
 
@@ -39,4 +39,4 @@ author_profile: true
 
 [11] Yi Mei Zhang & Chun Wang, Shanghai University Graduate Competition: Zhao-Yi Innovation Cup, STDAILY.com, 13/09/2019 (In Chinese) 
 
-[12] Yi Mei Zhang, Catch tadpoles (Prose), West China City Daily, 08/03/2020: 15(In Chinese) 
+[12] Yi Mei Zhang, [Catch tadpoles (Prose)](https://www.wccdaily.com.cn/shtml/hxdsb/20200308/126306.shtml), West China City Daily, 08/03/2020: 15(In Chinese) 

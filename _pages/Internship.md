@@ -10,6 +10,7 @@ redirect_from:
 ### [Munters](https://www.munters.com/) 
 
 **MarCom Intern**, From 2021.6 to present
+
 Advisor: Sarah Chen
 
 - Design and Produces marketing materials including, but not limited to, advertisements, electronic brochures, and presentations that reflect the brand’s image and style; 
@@ -26,7 +27,7 @@ Advisor: Yan Liu
 
 ### [CSCEC](https://en.wikipedia.org/wiki/China_State_Construction_Engineering)
 
-**Corporate Communication **, From 2020,6 to 2021,9
+**Corporate Communication**, From 2020,6 to 2021,9
 
 Advisor: Jiao Chen
 
