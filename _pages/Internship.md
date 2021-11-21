@@ -46,7 +46,7 @@ Advisor: Jiao Chen
 
 ### [Science and Technology Daily](https://en.wikipedia.org/wiki/Science_and_Technology_Daily)
 
-**Journalist**, From 2020, 4 to 2020, 9
+**Journalist**, From 2019, 4 to 2019, 9
 
  Advisor: Chun Wang
 
