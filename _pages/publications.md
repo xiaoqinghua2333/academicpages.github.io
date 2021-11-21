@@ -25,9 +25,7 @@ Science and Technology Daily. (2019, April 16). *Find Pathogenic Mechanism of "E
 
 Science and Technology Daily. (2019, April 18). *Magical Chemistry: The Greener World*. [Press release] 
 
-West China City Daily. (2020, March 8). *Catch tadpoles (Prose).* [Press Release].
-
-https://www.wccdaily.com.cn/shtml/hxdsb/20200308/126306.shtml
+West China City Daily. (2020, March 8). *Catch tadpoles (Prose).* [Press Release]. https://www.wccdaily.com.cn/shtml/hxdsb/20200308/126306.shtml
 
 Zhang, Y. M., & Wang, C.,(2019). How Can Chemistry Store New Energy? *Shanghai Library*. 
 
