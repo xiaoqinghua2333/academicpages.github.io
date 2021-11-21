@@ -11,7 +11,7 @@ redirect_from:
 
 ## Music
 
-- I am an enthusiast of Piano. when I was three, I started practicing the piano. I've got the highest level of playing the piano in the amateur track at 11 years old!!
+- I am an enthusiast of Piano. When I was three, I started practicing the piano and I've got the highest level of piano in the amateur track at 11 years old!!
 - Plan to learn stringed instruments. 
 
 ### Sports
