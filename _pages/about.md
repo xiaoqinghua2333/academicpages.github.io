@@ -12,7 +12,7 @@ I am M.A. in Education and Society at [McGill University](https://www.mcgill.ca/
 
 
 
-My interest in Digital Learning and Computational Thinking developed when I did a project regarding Users' information sharing behaviors, advised by Prof.[Yimin Hao](https://baike.baidu.com/item/%E9%83%9D%E4%B8%80%E6%B0%91/3922983/). Afterwards, I followed my interest to intern at [Science and Technology Daily](http://www.stdaily.com/English/ChinaNews/common_list.shtml//), under the supervision of Ms. Chun Wang, focusing on educational technologies, technology industries. Recently, I work on a project related to Computational Thinking and Cognitive Development, advised by Prof. [Annie Savard](https://www.mcgill.ca/dise/annie-savard) at [McGill University](https://www.mcgill.ca/).
+My interest in Digital Learning and Computational Thinking developed when I did a project regarding Users' information sharing behaviors, advised by Prof.[Yimin Hao](https://baike.baidu.com/item/%E9%83%9D%E4%B8%80%E6%B0%91/3922983/). Afterwards, I followed my interest to intern at [Science and Technology Daily](https://en.wikipedia.org/wiki/Science_and_Technology_Daily), under the supervision of Ms. Chun Wang, focusing on educational technologies, technology industries. Recently, I work on a project related to Computational Thinking and Cognitive Development, advised by Prof. [Annie Savard](https://www.mcgill.ca/dise/annie-savard) at [McGill University](https://www.mcgill.ca/).
 
 
 
@@ -21,3 +21,4 @@ I am also an enthusiast in Front-End, Human-Computer Interaction, who want to he
 
 
 Here is my [CV](https://drive.google.com/file/d/1hAK2dD8GVFfvImY7_KC9CZbdgGfF-imf/view?usp=sharing).
+
