@@ -20,5 +20,5 @@ I am also an enthusiast in Front-End, Human-Computer Interaction, who want to he
 
 
 
-Here is my [CV](https://drive.google.com/file/d/1hAK2dD8GVFfvImY7_KC9CZbdgGfF-imf/view?usp=sharing).
+Here is my [CV](https://drive.google.com/file/d/1fUNSOgjjJYikz3_Wy_IkRz5gS0p0yOcO/view?usp=sharing).
 

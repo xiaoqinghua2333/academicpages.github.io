@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**PUBLICATIONS** 
-
 **Papers & Articles**
 
 <u>*Chinese Version*</u> 
