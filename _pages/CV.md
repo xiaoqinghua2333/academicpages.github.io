@@ -31,8 +31,6 @@ redirect_from:
 
 * Logic 
 
-* [My partner - Le Zhang!! (NLP, Multimodal ML, AI)](https://zhangle.netlify.app)
-
   
 
  

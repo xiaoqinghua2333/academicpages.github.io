@@ -7,6 +7,14 @@ redirect_from:
   - /resume
 ---
 
+### [McGill University OSD Team](https://www.mcgill.ca/osd/) 
+
+**Invigilator**, From 2022. 1 to 2022. 5(exp.)
+
+- Ensuring the fair and proper conduct of in-person examinations
+- Assisting the exam coordinator including the preparation of student entry, student invigilation, distribution of examination materials, and the collection of examinations
+- Assisting students prior to the start of examinations by directing them to their seats and informing them of their exam accommodations
+
 ### [Munters](https://www.munters.com/) 
 
 **MarCom Intern**, From 2021.6 to present
