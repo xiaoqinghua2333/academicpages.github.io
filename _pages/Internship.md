@@ -7,22 +7,13 @@ redirect_from:
   - /resume
 ---
 
-### [McGill University OSD Team](https://www.mcgill.ca/osd/) 
-
-**Invigilator**, From 2022. 1 to 2022. 5(exp.)
-
-- Ensuring the fair and proper conduct of in-person examinations
-- Assisting the exam coordinator including the preparation of student entry, student invigilation, distribution of examination materials, and the collection of examinations
-- Assisting students prior to the start of examinations by directing them to their seats and informing them of their exam accommodations
-
 ### [Munters](https://www.munters.com/) 
 
 **MarCom Intern**, From 2021.6 to present
 
 Advisor: Sarah Chen
 
-- Design and Produces marketing materials including, but not limited to, advertisements, electronic brochures, and presentations that reflect the brand’s image and style; 
-- Assistants and Partners with marketing managers and related operational departments as part of a project team providing design and conceptualization solutions of deliverables. 
+-  Munters is a global leader in energy-efficient air treatment and climate solutions, founded in Sweden.As an intern, I assist in designing and producing marketing materials including electronic brochures, and presentations that reflect the brand’s image and style while assisting marketing managers and related operational departments as a part of a project team by providing conceptualization commercial solutions.
 
 ### [Danaher Corporation](https://www.danaher.com/)
 
@@ -30,8 +21,7 @@ Advisor: Sarah Chen
 
 Advisor: Yan Liu
 
-- Promotional assistance: assist in market tool management and activity content communication 
-- Marketing research assistance: assist in building the company's internal database. 
+- Danaher is a Fortune 500 science and technology innovator helping solve complex challenges, and improving quality of life around the world. I took part in Marketing research related to building company’s internal and outside database.
 
 ### [CSCEC](https://en.wikipedia.org/wiki/China_State_Construction_Engineering)
 
@@ -39,18 +29,13 @@ Advisor: Yan Liu
 
 Advisor: Jiao Chen
 
-- Communicated with all branches of the enterprise to find brightness, considering the news’ timeliness, significance, inspiration, uniqueness and quality. 
-- Wrote or edited the news offered by subsidiaries and branches. 
-- Updated and published everyday news of CSCEC on public pages or interior channels. 
-- Planned and held theme activities for cultivating corporate interior culture or establishing a corporate external profile, such as ‘Cherish the memory of the heroes of construction assistance’ or ‘A welcome for new employees’. 
+- The China State Construction Engineering Corporation (CSCEC) is the largest construction company in the world by revenue and the 14th largest general contractor in terms of overseas sales. I wrote and managed everyday news for the companies and co-developed three projects for the enhancement of company culture development.
 
 ### [ICBC ](https://www.icbc.com.cn/ICBC/en/default.htm)
 
 **Remote Research Assistant** (because of Covid)  From 2020, 7 to 2020, 8
 
-- Analyzed how bank marketing used new media to promote the latest products and assisted the marketing department of ICBC in establishing a system of online marketing strategies. 
-- Researched consumers’ attitudes towards diverse products by deriving consumers’ data from the public database about consumers. 
-- Co-wrote a research report for internal references of ICBC, - *“Research on Banks: Creative Marketing Methods within new media landscape”.* 
+- Industrial and Commercial Bank of China Limited is a Chinese multinational bank. With capital provided by the Ministry of Finance of China, the bank’s Tier 1 capital in 2013 was the largest of one thousand global banks, being the first bank headquartered in China to achieve this distinction in modern history. As a team member in Marketing Research Group, I analyzed how bank marketing used new media to promote the latest products and assisted the marketing department of ICBC in establishing a system for efficient and targeted online marketing strategies and co-wrote research reports for internal references.
 
 ### [Science and Technology Daily](https://en.wikipedia.org/wiki/Science_and_Technology_Daily)
 
@@ -58,14 +43,23 @@ Advisor: Jiao Chen
 
  Advisor: Chun Wang
 
-- Looked for intriguing spots about technology and published high-quality scientific essays on “Science and Technology Daily” or on ‘stdaily.com.’
-- Wrote in-depth reports related to Educational Technology, Technology Industries. 
+-  Interviewed the professionals in Technology industries and wrote reports related to Education Technology and the future of Technology industries in China.
 
-## Extracurricular Activities 
+## Campus Activities 
 
-###  NCP Life-Assist 
+### [McGill University OSD Team](https://www.mcgill.ca/osd/) 
 
-**Volunteer**, From 2020, 2 to 2020, 5
+**Invigilator**, 2022 winter, 2022 fall
 
-- Collected relevant information about people’s needs while they suffered from nCovid-19 in Wuhan and satisfied their needs by encouraging people to donate necessities online. 
-- Established the backup communities online to offline through new media platforms made up of many professionals regarding volunteer doctors and psychologists. 
+### [McGill University Office for Academic Records and Examinations ](https://www.mcgill.ca/es/) 
+
+**Convocation Clerk**, 2022 Spring 
+
+### [McGill University Office for Student Services](https://www.mcgill.ca/studentservices/)
+
+**Communication Assistant**, From August, 2022 To Present
+
+### [McGill University SMERG Group at DISE](https://www.mcgill.ca/smerg/)
+
+**Volunteer Site Manager**, From December, 2022 To Present
+

@@ -5,19 +5,47 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Papers & Articles**
+##### Peer-reviewed Conference Proceedings
+
+**Zhang, Y.**; Savard, A. (2023, April). *Curricular orientations to providing coding contexts for mathematics teaching and learning.*Submitted to the Annual Meeting of the American Educational Research Association, Chicago, USA.
+
+Ruiz-Segura, A.; Wang, T.; Huang, X.; Tan, C.; **Zhang, Y.**; Li, T.; Lajoie, S. P. (2023, April).*Understanding The Relationship of Flying Performance and Emotions in an Aviation Training Task.* Submitted to the Annual Meeting of the American Educational Research Association, Chicago, USA.
+
+**Zhang, Y.**; Chichekian, T.; Savard, A.(2022, August).*Empowering students’ mathematics problem-solving skills: The role of computational thinking.* Mathematics and its Connections to the Arts and Sciences, 2022, Moncton, Canada (Accepted)
+
+**Zhang, Y. M** (2019). A Research on WeChat Official Account Users’ Information Sharing Behaviors, based on ‘Uses and Gratifications Theory. *Proceedings of The Students’ Academic Forum at Shanghai University, China,* 206-210.
+
+
+
+##### Peer-reviewed Presentations
+
+**Zhang, Y.**; Chichekian, T.; Savard, A.(2022).*Empowering students’ mathematics problem-solving skills: The role of computational thinking.* Oral Presentation at Mathematics and its Connections to the Arts and Sciences, 2022, Moncton, Canada. (August 16-19, 2022)
+
+**Zhang, Y.**(2022). Extend Computational Thinking in Developing Women’s Belonging to Computer Science Education at University Level. Poster Presentation at 21st iteration of the Rosa Bruno-Jofre Symposium in Education(RBJSE). Kingston, Canada. (March 31 - April 1, 2022)
+
+**Zhang, Y.**(2022). Empower students’ computational thinking skills: an analysis study of elementary school mathemat- ical textbooks. Oral Presentation at 20th Annual EGSS Conference. Montreal, QC, Canada.(March 25-26, 2022)
+
+**Zhang, Y.**(2022). How to improve elementary school students’ Problem-solving, regarding Computational Thinking as evident Tools. Poster Presentation at 20th Annual EGSS Conference. Montreal, QC, Canada. (March 25-26, 2022)
+
+**Zhang, Y.**(2022). Empower Computational Thinking skills for Pre-service Teachers at University Level.Poster Presen- tation at Assessment and Evaluation Conference (AAEC) 2022. Virtual, Canada. (January 27-28, 2022)
+
+
+
+**Papers **
+
+**Zhang, Y.**; Savard, A.(2022). Recognizing Computational Thinking as Evident Tools in Problem-solving Procedures: Analysis Research on Mathematics Textbooks at Elementary Level. *** (Under Revisions)
 
 <u>*Chinese Version*</u> 
 
-Zhang, Y.M. (2019). [Causes and Solutions Towards Extending Cyberbullying of New Media](https://drive.google.com/file/d/109KqIBVcK9SNzRzP4ZJtkYOOMm5d5Yf8/view?usp=sharing). *Science and Technology Communication*,11(21):112-113
+**Zhang, Y.** (2019). [Causes and Solutions Towards Extending Cyberbullying of New Media](https://drive.google.com/file/d/109KqIBVcK9SNzRzP4ZJtkYOOMm5d5Yf8/view?usp=sharing). *Science and Technology Communication*,11(21):112-113
 
-Zhang, Y. M (2019, August 4). [Yang-Hua Ou: A Dream on Aero-engine](https://drive.google.com/file/d/1aQ4Ockg6SKhhFTyaJTa8-bIWfDm2RX9c/view?usp=sharing). *Pudong Technology.* 4(8): 36-39 
 
-Zhang, Y. M (2019). A Research on WeChat Official Account Users’ Information Sharing Behaviors, based on ‘Uses and Gratifications Theory. *Proceedings of The Students’ Academic Forum at Shanghai University, China,* 206-210.
 
 **Reports** 
 
 <u>*Chinese Version*</u>
+
+Zhang, Y. M (2019, August 4). [Yang-Hua Ou: A Dream on Aero-engine](https://drive.google.com/file/d/1aQ4Ockg6SKhhFTyaJTa8-bIWfDm2RX9c/view?usp=sharing). *Pudong Technology.* 4(8): 36-39 
 
 Science and Technology Daily. (2019, April 16). [*Find Pathogenic Mechanism of "Egg Death"*](https://drive.google.com/file/d/1smGSC4yXF5fuA0k3oQjIw0EFd4LzPZ89/view). [Press release] 
 
