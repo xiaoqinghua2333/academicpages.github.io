@@ -61,5 +61,5 @@ Advisor: Jiao Chen
 
 ### [McGill University SMERG Group at DISE](https://www.mcgill.ca/smerg/)
 
-**Volunteer Site Manager**, From December, 2022 To Present
+**Volunteer Site Manager**, From December, 2021 To Present
 
