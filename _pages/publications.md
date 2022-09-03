@@ -31,7 +31,7 @@ Ruiz-Segura, A.; Wang, T.; Huang, X.; Tan, C.; **Zhang, Y.**; Li, T.; Lajoie, S.
 
 
 
-**Papers **
+**Papers**
 
 **Zhang, Y.**; Savard, A.(2022). Recognizing Computational Thinking as Evident Tools in Problem-solving Procedures: Analysis Research on Mathematics Textbooks at Elementary Level. *** (Under Revisions)
 
