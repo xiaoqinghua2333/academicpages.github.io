@@ -11,30 +11,30 @@ redirect_from:
 
 
 
-### Research Assistant @[McGill University](https://www.mcgill.ca/dise/)
+### **Research Assistant** @[McGill University](https://www.mcgill.ca/dise/)
 
 Montreal, January 2022 to Present
 
-Investigators: **Dr.Tanya Chichekian** (Universite ́ de Sherbrooke), **Dr.Annie Savard** (McGill University) - SSHRC grant 
+**Investigators**: Dr.Tanya Chichekian(Universite ́ de Sherbrooke), Dr.Annie Savard (McGill University) - SSHRC grant 
 
-Project: **How to foster and develop problem-solving skills in the communities of pre-service teachers?**
-Main Tasks: data collection, qualitative data analysis and report, participate and document team meetings, present in conference
+**Project**: How to foster and develop problem-solving skills in the communities of pre-service teachers?
+**Main Tasks**: data collection, qualitative data analysis and report, participate and document team meetings, present in conference
 
 
 
-### Research Assistant @[McGill University](https://www.mcgill.ca/dise/)
+### **Research Assistant** @[McGill University](https://www.mcgill.ca/dise/)
 
 Montreal, June 2022 to Present
 
-Investigators: **Dr.Tanya Chichekian** (Universite ́ de Sherbrooke) - SSHRC grant 
+**Investigators**: Dr.Tanya Chichekian (Universite ́ de Sherbrooke) - SSHRC grant 
 
-Project: **How did students’ CT skills improve during our CT training at Quebec’s colleges(e.g., self-efficacy, compe- tency, attitudes, interest in robotics)?**
+**Project**: How did students’ CT skills improve during our CT training at Quebec’s colleges(e.g., self-efficacy, compe- tency, attitudes, interest in robotics)?**
 
-Main Tasks: data analysis and reports by SPSS, R
+**Main Tasks**: data analysis and reports by SPSS, R
 
 
 
-### Research Volunteer, [McGill University, ATLAS Lab](https://www.mcgill.ca/atlas-lab/) – Montreal Quebec
+### **Research Volunteer**, [McGill University, ATLAS Lab](https://www.mcgill.ca/atlas-lab/) – Montreal Quebec
 
 Montreal, May 2022-August 2022
 
@@ -58,7 +58,7 @@ Topic - **“A Research on WeChat Official Account Users’ Information Sharing 
 
   
 
-### Student Research @[Shanghai University](https://www.shu.edu.cn/)
+### **Student Research** @[Shanghai University](https://www.shu.edu.cn/)
 
 Shanghai, April to October 2019, advisor - Prof. Yimin Hao
 

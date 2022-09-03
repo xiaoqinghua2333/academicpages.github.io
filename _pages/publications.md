@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-##### Peer-reviewed Conference Proceedings
+##### **Peer-reviewed Conference Proceedings**
 
 **Zhang, Y.**; Savard, A. (2023, April). *Curricular orientations to providing coding contexts for mathematics teaching and learning.*Submitted to the Annual Meeting of the American Educational Research Association, Chicago, USA.
 
@@ -17,7 +17,7 @@ Ruiz-Segura, A.; Wang, T.; Huang, X.; Tan, C.; **Zhang, Y.**; Li, T.; Lajoie, S.
 
 
 
-##### Peer-reviewed Presentations
+##### **Peer-reviewed Presentations**
 
 **Zhang, Y.**; Chichekian, T.; Savard, A.(2022).*Empowering students’ mathematics problem-solving skills: The role of computational thinking.* Oral Presentation at Mathematics and its Connections to the Arts and Sciences, 2022, Moncton, Canada. (August 16-19, 2022)
 
