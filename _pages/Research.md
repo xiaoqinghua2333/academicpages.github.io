@@ -16,9 +16,8 @@ redirect_from:
 Montreal, January 2022 to Present
 
 - **Investigators**: Dr.Tanya Chichekian(Universite ́ de Sherbrooke), Dr.Annie Savard (McGill University) - SSHRC grant 
-
 - **Project**: How to foster and develop problem-solving skills in the communities of pre-service teachers?
-  **Main Tasks**: data collection, qualitative data analysis and report, participate and document team meetings, present in conference
+- **Main Tasks**: data collection, qualitative data analysis and report, participate and document team meetings, present in conference
 
 
 
@@ -33,12 +32,23 @@ Montreal, June 2022 to Present
 
 
 
-### **Research Volunteer**, [McGill University, ATLAS Lab](https://www.mcgill.ca/atlas-lab/) – Montreal Quebec
+### **Research Volunteer**, @[McGill University, ATLAS Lab](https://www.mcgill.ca/atlas-lab/) 
 
 Montreal, May 2022-August 2022
 
 - **Supervisors**: Dr.Susanne P. Lajoie; Alejandra Ruiz Segura (PhD Student) 
 - **Main Tasks**: data analysis by FaceReader6, EXCEL(VBA Codes), Spyder
+
+
+
+### **Research (Freelance)**, @[Curious Neuron](https://www.curiousneuron.com/)
+
+Montreal, April 2022
+
+- **Investigator**: Dr.Cindy Hovington 
+
+- **Project**: How can logic skills be developed through childhood?
+- **Main Tasks**: data collection, qualitative data analysis and report
 
 
 
