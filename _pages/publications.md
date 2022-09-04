@@ -37,7 +37,7 @@ Ruiz-Segura, A.; Wang, T.; Huang, X.; Tan, C.; **Zhang, Y.**; Li, T.; Lajoie, S.
 
 <u>*Chinese Version*</u> 
 
-**Zhang, Y.** (2019). [Causes and Solutions Towards Extending Cyberbullying of New Media](https://drive.google.com/file/d/109KqIBVcK9SNzRzP4ZJtkYOOMm5d5Yf8/view?usp=sharing). *Science and Technology Communication*,11(21):112-113
+**Zhang, Y.** (2019). Causes and Solutions Towards Extending Cyberbullying of New Media. *Science and Technology Communication*,11(21):112-113
 
 
 

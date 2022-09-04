@@ -25,9 +25,8 @@ Montreal, January 2022 to Present
 
 Montreal, June 2022 to Present
 
-- **Investigators**: Dr.Tanya Chichekian (Universite ́ de Sherbrooke) - SSHRC grant 
-- **Project**: How did students’ CT skills improve during our CT training at Quebec’s colleges(e.g., self-efficacy, compe- tency, attitudes, interest in robotics)?**
-
+- **Investigators**: Dr.Tanya Chichekian (PI, Universite ́ de Sherbrooke) - SSHRC grant
+- **Project**: How did students’ CT skills improve during our CT training at Quebec’s colleges(e.g., self-efficacy, compe- tency, attitudes, interest in robotics)?
 - **Main Tasks**: data analysis and reports by SPSS, R
 
 
@@ -36,7 +35,7 @@ Montreal, June 2022 to Present
 
 Montreal, May 2022-August 2022
 
-- **Supervisors**: Dr.Susanne P. Lajoie; Alejandra Ruiz Segura (PhD Student) 
+- **Supervisors**: Dr.Susanne P. Lajoie; Alejandra Ruiz Segura (PhD Student) Main Tasks: data analysis by FaceReader6, EXCEL(VBA Codes), Spyder
 - **Main Tasks**: data analysis by FaceReader6, EXCEL(VBA Codes), Spyder
 
 
