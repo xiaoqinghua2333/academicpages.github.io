@@ -15,7 +15,7 @@ redirect_from:
 
 Montreal, January 2022 to Present
 
-- **Investigators**: Dr.Tanya Chichekian(Universite ́ de Sherbrooke), Dr.Annie Savard (McGill University) - SSHRC grant 
+- **Investigators**: Prof.Tanya Chichekian(Universite ́ de Sherbrooke), Prof.Annie Savard (McGill University) - SSHRC grant 
 - **Project**: How to foster and develop problem-solving skills in the communities of pre-service teachers?
 - **Main Tasks**: data collection, qualitative data analysis and report, participate and document team meetings, present in conference
 
@@ -23,9 +23,9 @@ Montreal, January 2022 to Present
 
 ### **Research Assistant** @[McGill University](https://www.mcgill.ca/dise/)
 
-Montreal, June 2022 to Present
+Montreal, June 2022 to November 2022
 
-- **Investigators**: Dr.Tanya Chichekian (PI, Universite ́ de Sherbrooke) - SSHRC grant
+- **Investigators**: Prof.Tanya Chichekian (PI, Universite ́ de Sherbrooke) - SSHRC grant
 - **Project**: How did students’ CT skills improve during our CT training at Quebec’s colleges(e.g., self-efficacy, compe- tency, attitudes, interest in robotics)?
 - **Main Tasks**: data analysis and reports by SPSS, R
 
@@ -35,7 +35,7 @@ Montreal, June 2022 to Present
 
 Montreal, May 2022-August 2022
 
-- **Supervisors**: Dr.Susanne P. Lajoie; Alejandra Ruiz Segura (PhD Student) Main Tasks: data analysis by FaceReader6, EXCEL(VBA Codes), Spyder
+- **Supervisors**: Prof.Susanne P. Lajoie; Alejandra Ruiz Segura (PhD Student)
 - **Main Tasks**: data analysis by FaceReader6, EXCEL(VBA Codes), Spyder
 
 

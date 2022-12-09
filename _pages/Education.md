@@ -21,8 +21,8 @@ redirect_from:
 * Innovation and Entrepreneurship Award of Shanghai University (Scholarship), 2019; 
 * The Third Prize of Ninth Tower Press Festival, 2019; 
 * Excellence Award of Essay Contest in Shanghai University, 2019; 
-* Excellent Volunteer of NCP Life-Assist, 2020; 
 * Love Charity Award of Shanghai University (Scholarship), 2020; 
 * International Student Excellence in Research Graduate Award at McGill (DISE) (Scholarship), 2021-2022；
-* EGSS Academic Excellence Award at McGill (EGSS) (Merit-based Fellowship), 2021-2022.
+* EGSS Academic Excellence Award at McGill (EGSS) (Merit-based Fellowship), 2021-2022;
+* International Student Excellence in Research Graduate Award at McGill (DISE) (Scholarship), 2022-2023；
 

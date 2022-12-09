@@ -9,7 +9,7 @@ redirect_from:
 
 ### [Munters](https://www.munters.com/) 
 
-**MarCom Intern**, From 2021.6 to present
+**MarCom Intern**, From 2021.6 to 2022, 8
 
 Advisor: Sarah Chen
 
@@ -57,9 +57,20 @@ Advisor: Jiao Chen
 
 ### [McGill University Office for Student Services](https://www.mcgill.ca/studentservices/)
 
-**Communication Assistant**, From August, 2022 To Present
+**Communication Assistant**, From August, 2022 To December, 2022
 
 ### [McGill University SMERG Group at DISE](https://www.mcgill.ca/smerg/)
 
 **Volunteer Site Manager**, From December, 2021 To Present
+
+## Teaching Experiences
+
+### [McGill University, Teaching Assistant ]
+
+**EDEC 260 Philosophical Foundations**, 2022 Fall
+
+### [McGill University, Teaching Assistant ]
+
+**EDEC 262 Media, Technology and Education**, 2023 Winter
+ 
 
