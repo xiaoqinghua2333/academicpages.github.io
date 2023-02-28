@@ -7,22 +7,11 @@ author_profile: true
 
 **Peer-reviewed Conference**
 
+**Zhang, Y.**; Chichekian, T.; Savard, A. (2023, April). *Pedagogical Application of Computational Thinking in Mathe- matics Teacher Education .* Accepted to Symposium: Coding, Computational Modelling Equity in Math Education, Brock University, CA.
 
 Chichekian, T.; Jawhar, T.; Corliss, D.; Matheux, C.; **Zhang, Y**. (2023. June).*Optimizing Assessment of Knowledge
-Transfer Through Computational Thinking: An LD Project.* Submitted to the Third Annual Meeting of the Interna-
+Transfer Through Computational Thinking: An LD Project.* Accepted to the Third Annual Meeting of the Interna-
 tional Society of the Learning Sciences, Montreal, CA.
-
-Chichekian, T.; Trudeau J.; Jawhar, T; **Zhang, Y**. (2023. June). *Transfer of computational thinking skills in mixed
-learning environments with robotics*.Submitted to the Third Annual Meeting of the International Society of the Learn-
-ing Sciences, Montreal, CA.
-
-**Zhang, Y.**; Savard, A.; Chichekian, T. (2023, June). *Investigating the Representation of Coding in Elementary Mathe-
-matics Teaching.* Submitted to the Third Annual Meeting of the International Society of the Learning Sciences, Mon-
-treal, CA.
-
-**Zhang, Y.**; Chichekian, T.; Savard, A. (2023, June). *Providing coding contexts for mathematics didactics: Case
-studies from elementary and junior high school mathematics curriculums.* Submitted to the Third Annual Meeting of
-the International Society of the Learning Sciences, Montreal, CA.
 
 Ruiz-Segura, A.; Wang, T.; Huang, X.; Tan, C.; **Zhang, Y.**; Li, T.; Lajoie, S. P. (2023, April).*Understanding The Relationship of Flying Performance and Emotions in an Aviation Training Task.* Accepted to the Annual Meeting of the American Educational Research Association, Chicago, USA.
 
