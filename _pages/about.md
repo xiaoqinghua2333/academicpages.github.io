@@ -20,4 +20,4 @@ I am also an enthusiast in Front-End, Human-Computer Interaction, who want to he
 
 
 
-Here is my [CV](https://drive.google.com/file/d/1e7nrLm68thEdemSdJv9SMNA2kRHmfZvr/view).
+Here is my [CV](https://drive.google.com/file/d/1LyCNgxhtgXRPFPtEZTsBnks9Q-En0_kJ/view?usp=sharing) 

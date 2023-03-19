@@ -10,7 +10,7 @@ redirect_from:
 
 ## McGill University
 
-- M.A. in Education and Society - Thesis Option (2021 – Exp. 2023)
+- M.A. in Education and Society - Thesis Option (2021 – Exp. 2024)
 
 ### Shanghai University
 
@@ -25,4 +25,4 @@ redirect_from:
 * International Student Excellence in Research Graduate Award at McGill (DISE) (Scholarship), 2021-2022；
 * EGSS Academic Excellence Award at McGill (EGSS) (Merit-based Fellowship), 2021-2022;
 * International Student Excellence in Research Graduate Award at McGill (DISE) (Scholarship), 2022-2023；
-
+* Coding, Computational Modeling, & Equity in Mathematics Education Symposium traveling grant for graduate student (Grant), 2023
