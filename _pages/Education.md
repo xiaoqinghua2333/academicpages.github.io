@@ -16,5 +16,5 @@ redirect_from:
 
 - B.A. in Communication and Journalism (2017 – 2021)
 
-### Awards
+
 
