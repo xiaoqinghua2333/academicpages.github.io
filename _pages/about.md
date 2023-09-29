@@ -19,5 +19,3 @@ My interest in Digital Learning and Computational Thinking developed when I did 
 I am also an enthusiast in Front-End, Human-Computer Interaction, who want to help women in Tech.
 
 
-
-Here is my [CV](https://drive.google.com/file/d/1LyCNgxhtgXRPFPtEZTsBnks9Q-En0_kJ/view?usp=sharing) 
